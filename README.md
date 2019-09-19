@@ -22,5 +22,6 @@ git clone https://gihub.com/bsimser/fivem_uptime uptime
 - Add this to your `server.cfg`:
 
 ```
+add_ace resource.uptime command.sets allow
 start uptime
 ```
