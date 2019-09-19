@@ -17,7 +17,7 @@ git clone https://gihub.com/bsimser/fivem_uptime uptime
 ### Manually
 - Download https://github.com/bsimser/fivem_uptime/archive/master.zip
 - Put it in the `resource` directory
-- Rename the folder `uptime`
+- Rename the folder from `fivem_uptime_master` to `uptime`
 
 ## Installation
 - Add this to your `server.cfg`:
