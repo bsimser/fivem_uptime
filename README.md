@@ -5,11 +5,6 @@ Show uptime in server list for FXServer
 
 ## Download & Installation
 
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-```
-fvm install --save --folder=test/uptime
-```
-
 ### Using Git
 ```
 cd resources
